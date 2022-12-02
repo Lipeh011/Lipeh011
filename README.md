@@ -21,7 +21,7 @@
 </div>
    
  <div style="display: inline_block"><br>
-  <h2> Tecnologias </h2>
+  <h2> Tecnologias <img align="center" alt="Lipe-React" height="35" width="35" src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f468-1f4bb.png"></h2>
    <br>
   <img align="center" alt="Lipe-HTML" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lipe-CSS" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -38,8 +38,10 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
 <br></div>
   
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01F50F&height=120&section=footer"/>
+   
+
+
 
 
   
