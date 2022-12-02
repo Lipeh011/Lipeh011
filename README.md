@@ -39,8 +39,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=01F50F&height=120&section=footer"/>
  
-<img align="center" alt="Lipe-React" height="50" width="50" src="https://cdn4.iconfinder.com/data/icons/avatar-58/64/Programmer-avatar-occupation-profession-man-human-512.png">
-
 
 
 
