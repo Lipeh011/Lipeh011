@@ -8,7 +8,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lipeh011&layout=compact&hide_border=true&title_color=01F50F&text_color=FBFDFD&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Lipeh011&theme=gotham&hide_border=true&area=true)
+
+
  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Lipeh011&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
