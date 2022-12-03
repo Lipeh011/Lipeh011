@@ -23,12 +23,26 @@
  <div style="display: inline_block"><br>
   <h2> Linguagens e ferramentas <img align="center" alt="Lipe-React" height="35" width="35" src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f468-1f4bb.png"></h2>
    <br>
+  <img align="center" alt="Lipe-Figma" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Lipe-HTML" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lipe-CSS" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lipe-Js" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lipe-Bootstrap" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Lipe-React" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lipe-MySQL" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Lipe-Java" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Lipe-VScode" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Lipe-eclipse" height="35" width="37" src="https://cdn.icon-icons.com/icons2/3110/PNG/512/eclipse_icon_191751.png">
+  <img align="center" alt="Lipe-intej" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+  <img align="center" alt="Lipe-Github" height="38" width="40" src="https://cdn-icons-png.flaticon.com/512/2504/2504911.png">
+  <img align="center" alt="Lipe-intej" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+   
+   
+
+   
+
+
+
  <br>
 </div>
   <br>
