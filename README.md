@@ -21,7 +21,7 @@
 </div>
    
  <div style="display: inline_block"><br>
-  <h2> Linguagens e ferramentas <img align="center" alt="Lipe-React" height="35" width="35" src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f468-1f4bb.png"></h2>
+  <h2> Tecnologias <img align="center" alt="Lipe-React" height="35" width="35" src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f468-1f4bb.png"></h2>
    <br>
   <img align="center" alt="Lipe-Figma" height="30" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Lipe-HTML" height="30" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
